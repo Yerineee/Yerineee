@@ -12,11 +12,11 @@
 <h3>Experiences</h3>
 <table>
   <tr align="center">
-    <td> - </td>
+    <td>2020.09 - 2020.12</td>
     <td>🌸 이화여대 소프트웨어 봉사단 3기</td>
   </tr>
   <tr align="center">
-    <td> - </td>
+    <td>2021.03 - 2022.02, 2022.09 - 2023.02</td>
     <td>💻 EDOC (이화여대 코딩 동아리)</td>
   </tr>
   <tr align="center">
@@ -25,7 +25,7 @@
   </tr>
   <tr align="center">
     <td>2023.03 -</td>
-    <td>EFUB (이화여대 웹 개발 동아리) 프론트엔드 리드</td>
+    <td>💻 EFUB (이화여대 웹 개발 동아리) 프론트엔드 리드</td>
   </tr>
 </table>
 
