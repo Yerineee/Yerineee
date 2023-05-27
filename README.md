@@ -49,4 +49,9 @@
     <td><a href="https://github.com/Yerineee/To-Do-List.git">📅 To-Do-List (Toy Project)</a></td>
     <td>Frontend</td>
   </tr>
+  <tr align="center">
+    <td>2023.05.02 - 2023.05.22</td>
+    <td><a href="https://github.com/efub-toy-project-team3/team3-front.git">📚 Naver series Clone Coding (Efub Lead Toy Project)</a></td>
+    <td>Frontend (Detail Page)</td>
+  </tr>
 </table>
