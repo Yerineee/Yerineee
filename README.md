@@ -12,20 +12,24 @@
 <h3>Experiences</h3>
 <table>
   <tr align="center">
-    <td>2020.09 - 2020.12</td>
-    <td>🌸 이화여대 소프트웨어 봉사단 3기</td>
+    <td>2023.03 -</td>
+    <td>💻 EFUB (이화여대 웹 개발 동아리) 프론트엔드 리드</td>
   </tr>
   <tr align="center">
-    <td>2021.03 - 2022.02, 2022.09 - 2023.02</td>
-    <td>💻 EDOC (이화여대 코딩 동아리)</td>
+    <td>2022.07 - 2022.08</td>
+    <td>💻 Full Stack Sillicon Valley Internship Program</td>
   </tr>
   <tr align="center">
     <td>2022.03 - 2022.06</td>
     <td>🌸 이화여대 소프트웨어 봉사단 6기</td>
   </tr>
   <tr align="center">
-    <td>2023.03 -</td>
-    <td>💻 EFUB (이화여대 웹 개발 동아리) 프론트엔드 리드</td>
+    <td>2021.03 - 2022.02, 2022.09 - 2023.02</td>
+    <td>💻 EDOC (이화여대 코딩 동아리)</td>
+  </tr>
+  <tr align="center">
+    <td>2020.09 - 2020.12</td>
+    <td>🌸 이화여대 소프트웨어 봉사단 3기</td>
   </tr>
 </table>
 
@@ -34,24 +38,29 @@
 
 <h3>Projects</h3>
 <table>
-  <tr align="center">
-    <td>2021.08 - 2022.06</td>
-    <td><a href="https://github.com/Ewha-BanBanBank/DingDone_final.git">🔎 DingDone Project</a></td>
-    <td>App, Object Detection</td>
+    <tr align="center">
+    <td>2023.07.03 -</td>
+    <td><a href="https://github.com/EFUB-EDAY/EDAY-FRONT.git">🍀 E-Day (Efub SWS Project)</a></td>
+    <td>Frontend (Login Page, Info7 Page)</td>
   </tr>
   <tr align="center">
-    <td>2022.07 - 2022.08</td>
-    <td><a href="https://github.com/SiliconValley-Team-h/Convertoon.git">🖼 Convertoon Project</a></td>
-    <td>Frontend</td>
+    <td>2023.05.02 - 2023.05.22</td>
+    <td><a href="https://github.com/efub-toy-project-team3/team3-front.git">📚 Naver series Clone Coding (Efub Lead Toy Project)</a></td>
+    <td>Frontend (Detail Page)</td>
   </tr>
   <tr align="center">
     <td>2023.02</td>
     <td><a href="https://github.com/Yerineee/To-Do-List.git">📅 To-Do-List (Toy Project)</a></td>
     <td>Frontend</td>
   </tr>
-  <tr align="center">
-    <td>2023.05.02 - 2023.05.22</td>
-    <td><a href="https://github.com/efub-toy-project-team3/team3-front.git">📚 Naver series Clone Coding (Efub Lead Toy Project)</a></td>
-    <td>Frontend (Detail Page)</td>
+    <tr align="center">
+    <td>2022.07 - 2022.08</td>
+    <td><a href="https://github.com/SiliconValley-Team-h/Convertoon.git">🖼 Convertoon Project</a></td>
+    <td>Frontend</td>
+  </tr>
+    <tr align="center">
+    <td>2021.08 - 2022.06</td>
+    <td><a href="https://github.com/Ewha-BanBanBank/DingDone_final.git">🔎 DingDone Project</a></td>
+    <td>App, Object Detection</td>
   </tr>
 </table>
