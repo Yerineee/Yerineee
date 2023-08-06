@@ -42,7 +42,7 @@
     <th>기간</th>
     <th>프로젝트</th>
     <th>역할</th>
-    <th>비고<th>
+    <th>비고</th>
   </tr>
   <tr align="center">
     <td>2023.08 -</td>
