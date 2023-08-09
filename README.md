@@ -51,7 +51,7 @@
     <td>2023 관광데이터 활용 공모전 (본선)</td>
   </tr>
   <tr align="center">
-    <td>2023.07.03 -</td>
+    <td>2023.07.03 - 2023.08.05</td>
     <td><a href="https://github.com/EFUB-EDAY/EDAY-FRONT.git">🍀 E-Day</a></td>
     <td>Frontend <br/> (Login Page, Info7 Page)</td>
     <td>Efub SWS Project</td>
