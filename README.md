@@ -45,7 +45,7 @@
     <th>비고</th>
   </tr>
   <tr align="center">
-    <td>2023.08 -</td>
+    <td>2023.04.29 - 2023.10.20</td>
     <td><a href="https://github.com/KUDDY-2023/KUDDY-front.git">💛 KUDDY</a></td>
     <td>Frontend</td>
     <td>2023 관광데이터 활용 공모전 (본선)</td>
