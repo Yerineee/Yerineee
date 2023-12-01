@@ -48,7 +48,7 @@
     <td>2023.04.29 - 2023.10.20</td>
     <td><a href="https://github.com/KUDDY-2023/KUDDY-front.git">💛 KUDDY</a></td>
     <td>Frontend</td>
-    <td>2023 관광데이터 활용 공모전 (본선)</td>
+    <td>2023 관광데이터 활용 공모전 (우수상🏆)</td>
   </tr>
   <tr align="center">
     <td>2023.07.03 - 2023.08.05</td>
@@ -62,12 +62,6 @@
     <td>Frontend <br/> (Detail Page)</td>
     <td>Efub Lead Toy Project</td>
   </tr>
-  <tr align="center">
-    <td>2023.02</td>
-    <td><a href="https://github.com/Yerineee/To-Do-List.git">📅 To-Do-List</a></td>
-    <td>Frontend</td>
-    <td>Toy Project</td>
-  </tr>
     <tr align="center">
     <td>2022.07 - 2022.08</td>
     <td><a href="https://github.com/SiliconValley-Team-h/Convertoon.git">🖼 Convertoon Project</a></td>
@@ -78,6 +72,16 @@
     <td>2021.08 - 2022.06</td>
     <td><a href="https://github.com/Ewha-BanBanBank/DingDone_final.git">🔎 DingDone Project</a></td>
     <td>App, Object Detection</td>
-    <td>졸업 프로젝트</td>
+    <td>졸업 프로젝트 (🏆🏆)</td>
+  </tr>
+</table>
+
+<br />
+
+
+<h3>Certificate</h3>
+<table>
+  <tr>
+    <td>정보처리기사</td>
   </tr>
 </table>
