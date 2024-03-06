@@ -12,7 +12,7 @@
 <h3>Experiences</h3>
 <table>
   <tr align="center">
-    <td>2023.03 -</td>
+    <td>2023.03 - 2023.12</td>
     <td>💻 EFUB (이화여대 웹 개발 동아리) 프론트엔드 리드</td>
   </tr>
   <tr align="center">
