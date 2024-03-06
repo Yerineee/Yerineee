@@ -44,6 +44,12 @@
     <th>역할</th>
     <th>비고</th>
   </tr>
+   <tr align="center">
+    <td>2023.09.05 - 2023.11.28</td>
+    <td><a href="https://github.com/KUDDY-2023/KUDDY-front.git">🛍️Market Kerly Clone Coding</a></td>
+    <td>Frontend</td>
+    <td>Efub Toy Project</td>
+  </tr>
   <tr align="center">
     <td>2023.04.29 - 2023.10.20</td>
     <td><a href="https://github.com/KUDDY-2023/KUDDY-front.git">💛 KUDDY</a></td>
